@@ -1,0 +1,14 @@
+# Root orchestration repo only. The application parts are independent Git repos.
+/api/
+/ui/
+/sandbox/
+
+.DS_Store
+.idea/
+.vscode/
+
+/logs/
+*.log
+
+.env
+.env.local

@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:luyunix/api.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:luyunix/ui.git
+[submodule "sandbox"]
+	path = sandbox
+	url = git@github.com:luyunix/sandbox.git
